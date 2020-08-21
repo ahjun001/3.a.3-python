@@ -1,0 +1,8 @@
+:noc:
+:icons: fonts
+
+= python
+
+== getting user input in CLI window with simple menu and sub-menus in a class
+
+ py_Class_simple_menu_sub_menu.py
